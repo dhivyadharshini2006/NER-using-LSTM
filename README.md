@@ -126,11 +126,13 @@ plt.show()
 ## OUTPUT
 
 ### Training Loss, Validation Loss Vs Iteration Plot
-<img width="776" height="634" alt="image" src="https://github.com/user-attachments/assets/2a2e3f84-4c95-462a-8611-f82cdc0729c9" />
+
+<img width="688" height="548" alt="image" src="https://github.com/user-attachments/assets/fe974e2a-8161-45a8-b90e-9de5654cc38e" />
 
 
 ### Sample Text Prediction
-<img width="433" height="710" alt="image" src="https://github.com/user-attachments/assets/56bdddce-78ec-43bd-9b3b-e2232b00cdd0" />
+<img width="382" height="474" alt="image" src="https://github.com/user-attachments/assets/60897bcf-c0ab-4e97-b9c4-30ab9b9de7bb" />
+
 
 
 ## RESULT
